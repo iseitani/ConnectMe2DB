@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.connectme2db"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.connectme2db.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.connectme2db.DBSettings"
+            android:label="@string/title_activity_dbsettings" >
+        </activity>
+        <activity
+            android:name="com.example.connectme2db.Tables"
+            android:label="@string/title_activity_tables" >
+        </activity>
+        <activity
+            android:name="com.example.connectme2db.ViewInfo"
+            android:label="@string/title_activity_view_info" >
+        </activity>
+        <activity
+            android:name="com.example.connectme2db.TableContent"
+            android:label="@string/title_activity_table_content" >
+        </activity>
+        <activity
+            android:name="com.example.connectme2db.QueryEditor"
+            android:label="@string/title_activity_query_editor" >
+        </activity>
+    </application>
+
+</manifest>

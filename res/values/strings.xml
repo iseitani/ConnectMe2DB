@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ConnectMe2DB</string>
+    <string name="action_settings">Settings</string>
+    <string name="connect">ΣΥΝΔΕΣΗ ΜΕ ΒΑΣΗ</string>
+    <string name="abort">ΕΞΟΔΟΣ</string>
+    <string name="usernameST">ΟΝΟΜΑ ΧΡΗΣΤΗ :</string>
+    <string name="connsets">ΔΩΣΤΕ ΣΤΟΙΧΕΙΑ ΣΥΝΔΕΣΗΣ</string>
+    <string name="passwordST">ΚΩΔΙΚΟΣ ΠΡΟΣΒΑΣΗΣ :</string>
+    <string name="portST">ΠΟΡΤΑ  :</string>
+    <string name="dbnameST">ΟΝΟΜΑ ΒΑΣΗΣ :</string>
+    <string name="urlST">HOST  :</string>
+    <string name="query_menu">ΕΚΤΕΛΕΣΗ ΕΝΤΟΛΗΣ SQL</string>
+    <string name="view_table">ΕΜΦΑΝΙΣΗ ΠΙΝΑΚΩΝ </string>
+    <string name="pinakes">ΠΙΝΑΚΑΣ :</string>
+    <string name="title_activity_dbsettings">DBSettings</string>
+    <string name="title_activity_tables">Tables</string>
+    <string name="title_activity_view_info">ViewInfo</string>
+    <string name="viewMyTableData">ΕΜΦΑΝΙΣΗ ΔΕΔΟΜΕΝΩΝ ΠΙΝΑΚΑ</string>
+    <string name="title_activity_table_content">TableContent</string>
+    <string name="host_hint">ΤΟ URL ΤΗΣ ΒΑΣΗΣ</string>
+    <string name="dbname_hint">ΤΟ ΟΝΟΜΑ ΤΗΣ ΒΑΣΗΣ</string>
+    <string name="user_hint">ΤΟ ΟΝΟΜΑ ΧΡΗΣΤΗ</string>
+    <string name="pass_hint">Ο ΚΩΔΙΚΟΣ ΠΡΟΣΒΑΣΗΣ</string>
+    <string name="port_hint">PORT NUMBER</string>
+    <string name="connectTables1">ΠΡΟΒΟΛΗ ΠΙΝΑΚΩΝ</string>
+    <string name="queryEditor1">ΕΚΤΕΛΕΣΗ SQL QUERY</string>
+    <string name="title_activity_query_editor">QueryEditor</string>
+    <string name="queryEditorT">SQL QUERY EDITOR</string>
+    <string name="queryStringT">ΓΡΑΨΤΕ ΤΗΝ ΕΝΤΟΛΗ SQL</string>
+    <string name="queryStringExeT">ΕΚΤΕΛΕΣΗ SQL QUERY</string>
+    <string name="QueryExecuted">ΤΟ SQL QUERY ΕΚΤΕΛΕΣΤΗΚΕ</string>
+    <string name="backToExeT">ΕΠΙΣΤΡΟΦΗ ΣΤΟΝ SQL QUERY EDITOR</string>
+
+</resources>
